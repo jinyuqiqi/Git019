@@ -5,9 +5,5 @@ add something
 console.log('kkk')
 stash
 stash
-stash
 reset reset checkout checkout
-o
-o
-o
-p
+YOU ARE MY SUNSHINE
