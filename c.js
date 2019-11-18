@@ -7,3 +7,7 @@ stash
 stash
 stash
 reset reset checkout checkout
+o
+o
+o
+p
