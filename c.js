@@ -1,8 +1,7 @@
-I am c.js 
+let text = `I am c.js 
 hello git
 A new tag will born
 add something
-console.log('kkk')
 stash
 stash
 reset reset checkout checkout
@@ -11,3 +10,8 @@ ONE
 TWO
 THREE
 FOUR
+野狼 disco`
+function getName(){
+   console.log('name')
+   console.log(text)
+}
